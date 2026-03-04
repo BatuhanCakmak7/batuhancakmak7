@@ -116,6 +116,12 @@ const batuhan = {
 <img src="https://img.shields.io/badge/🔒_Cyber_Security_Research-Threat_Hunting_|_Ethical_Hacking_|_SOC-0d1117?style=for-the-badge&labelColor=0d1117&color=1a1a2e" alt="CySec Project"/>
 </a>
 
+<br/><br/>
+
+<a href="https://github.com/BatuhanCakmak7?tab=repositories">
+<img src="https://img.shields.io/badge/🧬_Benchmarking_Generative_Models-Single--Cell_Gene_Expression_|_VAE_|_GAN-0d1117?style=for-the-badge&labelColor=0d1117&color=1a1a2e" alt="scRNA-seq Generative Models"/>
+</a>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
