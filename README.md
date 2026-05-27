@@ -38,6 +38,7 @@ const batuhan = {
 
     currentProjects: [
         "Human Activity Recognition using SHL Dataset (CNN-BiLSTM)",
+        "Comparative Analysis of Generative Models on Single-Cell Gene Expression Data"
         "Cyber Security Research & Threat Hunting"
     ],
 
